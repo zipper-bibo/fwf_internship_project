@@ -1,2 +1,2 @@
 # fwf_internship_project
-Projects written to join the fwf club and self-improving
+Projects written to in the fwf club and self-improving.
